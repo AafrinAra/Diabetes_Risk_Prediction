@@ -41,7 +41,7 @@ The motivation behind this project was:
 
 ## 🌐 Demo
 
-🔗 **Live Demo Link:** *(Add after deployment)*
+🔗 **Live Demo Link:** 
 
 
 ## 🎓 Learning Objectives
